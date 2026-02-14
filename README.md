@@ -1,4 +1,4 @@
-# QuantOption: European Option Pricing & Greeks Calculator
+# Option Pricing & Greeks Calculator
 
 ## Description
 
